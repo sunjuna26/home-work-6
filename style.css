@@ -1,0 +1,56 @@
+h1{
+    color: red;background-color: #00ff04;align-items: center;
+    font-size: 100px;
+    font-weight: 100;
+}
+comment code
+p{width: 100; text-align: justify;background-color: brown;
+font-size: 40px;
+font-style: italic;
+}
+p{ text-align: justify;background-color:#aaa ;
+font: size 50px; 
+font-weight: 30px;}
+.p{ text-align: justify;background-color: aqua;
+    font-size: 50px;
+    font-weight: 30px;
+
+}
+
+a{color:mediumblue ;
+background-color: aquamarine;
+text-decoration: underline;
+text-decoration-style: wavy;
+letter-spacing: 8px;
+word-spacing: 16px;}
+#test{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: #00ff04;
+    line-height: 100px;
+    text-align: center;
+}
+#test { text-align: center;
+    width: 100px;
+    height: 100px;
+    background-color:pink;
+    color: #00ff04;
+    line-height: 100px;
+    text-align: center;
+    strong text-decoration: line-through;
+}
+.btn{padding:10px 16px ;
+    outline:0 ;background-color:transparent ;
+    border: 0;
+
+}
+.btn-1{background-color: aquamarine;
+
+}
+.btn-2{background-color:chartreuse;}
+.btn-3{background-color:black;
+    color:white;
+}
+.btn-4{background-color:red;}
+
